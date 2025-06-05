@@ -15,6 +15,7 @@ Notebook Kaggle'da çalıştırılmıştır.
 In this project, customer segmentation and RFM (Recency, Frequency, Monetary) analysis were performed using data from FLO.
 
 📌 Tools & Techniques Used: Python, pandas, datetime, RFM analysis, Customer Segmentation  
+
 📊 Objective: To identify customer segments that can support marketing strategy development.
 
 📌 Note:  
