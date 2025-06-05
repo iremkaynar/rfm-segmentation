@@ -23,4 +23,4 @@ The dataset has not been uploaded to GitHub due to licensing restrictions.
 The notebook was executed on Kaggle.
 
 🔗 **You can view the full notebook on Kaggle:**  
-[Click here to open the notebook]([https://www.kaggle.com/iremkaynar/rfm-segmentation-notebook](https://www.kaggle.com/code/remkaynar/flo-rfm-analysis))
+[Click here to open the notebook](https://www.kaggle.com/code/remkaynar/flo-rfm-analysis)
