@@ -10,6 +10,9 @@ Bu projede FLO verisi üzerinden müşteri segmentasyonu, RFM analiz hesaplamala
 Veri seti lisans gereği GitHub'a yüklenmemiştir.
 Notebook Kaggle'da çalıştırılmıştır.
 
+🔗 **Notebook'a Kaggle üzerinden ulaşmak için tıklayın:**  
+[Notebook'u görüntüle](https://www.kaggle.com/code/remkaynar/flo-rfm-analysis)
+
 # RFM Customer Segmentation
 
 In this project, customer segmentation and RFM (Recency, Frequency, Monetary) analysis were performed using data from FLO.
