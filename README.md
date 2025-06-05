@@ -3,6 +3,7 @@
 Bu projede FLO verisi üzerinden müşteri segmentasyonu, RFM analiz hesaplamaları yapılmıştır.
 
 📌 Kullanılan araçlar ve teknikler: Python, pandas, datetime, RFM analizi (Recency, Frequency, Monetary), Müşteri Segmentasyonu
+
 📊 Amaç: Pazarlama stratejisi geliştirmeye yardımcı olacak müşteri segmentlerini belirlemek.
 
 📌 Not:
